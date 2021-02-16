@@ -13,25 +13,25 @@ most popular, which hotels have guests staying there the longest, and what times
 hotels in a given area are booked the most.
 
 # Approach
-# Database Design using ERD. 
+## Database Design using ERD. 
 Created a logical and physical database design from scratch and populated the database tables and relationships with appropriate constraints using Oracle
 
-# Query Writing - General Purpose Important Queries that fits business use case
+## Query Writing - General Purpose Important Queries that fits business use case
 Wrote Queries like Most Popular hotel during summer time
 -query to fetch preferred rooms in hotels
 much more that fits business case. Please see the report for detailed explaination
 
-# Performance Tuning and Indexing - To Optimize Query Performance
+## Performance Tuning and Indexing - To Optimize Query Performance
 Utilized Techniques like 
 1) B-Tree Indexing
 2) Bitmap Indexing
 3) SQL Tuning Advisor in Oracle
 4) Query Optimization in Oracle to increase performance time on joins and expensive queries
 
-4) Data Visualization 
+## Data Visualization 
 Used Tableau to visualiza the above queries
 
-5) Data Mining - Clustering using SAS Enterprise Miner
+## Data Mining - Clustering using SAS Enterprise Miner
 Clustered the similar hotels based on Users Preference using SAS Enterprise Miner.
 
 
