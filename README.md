@@ -28,10 +28,15 @@ Utilized Techniques like
 3) SQL Tuning Advisor in Oracle
 4) Query Optimization in Oracle to increase performance time on joins and expensive queries
 
+![1](https://user-images.githubusercontent.com/58057238/108137902-de29a100-708a-11eb-888a-3e584399a726.PNG)
+
+### Significantly lowered consistent gets and db block gets
+
 ## Data Visualization 
 Used Tableau to visualiza the above queries
 
 ## Data Mining - Clustering using SAS Enterprise Miner
-Clustered the similar hotels based on Users Preference using SAS Enterprise Miner.
+Clustered the similar hotels based on Users Preference using Weka.
 
+![2](https://user-images.githubusercontent.com/58057238/108137914-e2ee5500-708a-11eb-908b-8c275ec3be49.PNG)
 
